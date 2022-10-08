@@ -25,10 +25,6 @@ thanks
 git clone https://github.com/SlavPH/ChatBot && cd ChatBot && chmod +x * && ./bot.py
 ```
 
-# Social Media
-+ [Instagram](https://instagram.com/theslavph)                                                
-+ [Telegram](https://telegram.me/theslavph)
-
 
 
 > Thanks
